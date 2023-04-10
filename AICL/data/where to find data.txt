@@ -1,0 +1,5 @@
+ESC50 dataset available at - https://github.com/karolpiczak/ESC-50
+
+Google SpeechCommandsV2 available in torchaudio.datasets - https://pytorch.org/audio/stable/generated/torchaudio.datasets.SPEECHCOMMANDS.html#torchaudio.datasets.SPEECHCOMMANDS
+
+AVE dataset available at - https://sites.google.com/view/audiovisualresearch 
