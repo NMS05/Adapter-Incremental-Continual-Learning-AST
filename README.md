@@ -1,11 +1,14 @@
 # Adapter-Incremental-Continual-Learning-AST
 
-This repo provides a PyTorch implementation of the paper ["Adapter Incremental Continual Learning of Efficient Audio Spectrogram Transformers"](https://arxiv.org/pdf/2302.14314.pdf). Run AICL/AICL_train.py to train the Audio Spectrogram Transformer (AST) in a Task Incremental Continual Learning setup.
+This repo provides a PyTorch implementation of the paper ["Adapter Incremental Continual Learning of Efficient Audio Spectrogram Transformers"](https://arxiv.org/pdf/2302.14314.pdf). Run AICL_train.py to train the Audio Spectrogram Transformer (AST) in a Task Incremental Continual Learning setup.
 
-### AICL Architecture
+## AICL Architecture
 
-![AICL]()
+![AICL](https://github.com/NMS05/Adapter-Incremental-Continual-Learning-AST/blob/main/AICL/images/AICL.png)
 
-### Frequency-Time factorized Attention (FTA)
+## Frequency-Time factorized Attention (FTA)
 
-![FTA]()
+To visualize the masked attention (which enables FTA) refer FTA.ipynb
+
+![FTA](https://github.com/NMS05/Adapter-Incremental-Continual-Learning-AST/blob/main/AICL/images/FTA.png)
+
